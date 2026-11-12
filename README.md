@@ -12,4 +12,4 @@ These scripts are designed to verify core e-commerce functionalities, such as us
 1. Clone the repository.
 2. Install dependencies: `pip install pytest playwright`
 3. Install browser binaries: `playwright install`
-4. Run the tests: `pytest test_login.py`
+4. Run the tests: `pytest test_sauce.py`
